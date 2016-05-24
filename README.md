@@ -1,11 +1,13 @@
 # PassGen
-Simple password generation tool.
+Simple password generation tool, written in C#.
 
 Run the exe file.
 Will generate a password of different lengths in:<br />
-        raw format,<br />
-        MD5,<br />
-        Sha1 and <br />
-        Base64
+        <ul>
+        <li>raw format,</li>
+        <li>MD5,</li>
+        <li>Sha1 and </li>
+        <li>Base64</li>
+        </ul>
 
 <br />Can copy generated password to clipboard. 
