@@ -11,3 +11,7 @@ Will generate a password of different lengths in:<br />
         </ul>
 
 <br />Can copy generated password to clipboard. 
+
+<h2>License</h2>
+<p>Do with it as you wish.</p>
+<p><small>Credit me if you're awesome.</small></p>
